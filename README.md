@@ -14,7 +14,7 @@ ___
 
 ___
 
-<h4> Just a glimpse of my work! Not that good? Don't yell at me, it's just my second try. "GETTING BETTER AT IT" </h4>
+<h3> Just a glimpse of my work! Not that good? Don't yell at me, it's just my second try. "GETTING BETTER AT IT" </h3>
 
 &nbsp;
 ![Capture](https://user-images.githubusercontent.com/52750629/104055729-41671e80-5215-11eb-9cff-04a506f738a0.PNG)
